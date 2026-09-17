@@ -216,3 +216,22 @@ svg * {
     scroll-behavior: auto !important;
   }
 }
+
+:root {
+  --color-dark: #1E1E1E;
+  --color-light: #F3F4F6;
+  --color-dark-gray: #2A2F37;
+  --color-light-gray: #9CA3AF;
+  --color-dark-blue: #2A2F37;
+  --color-blue: #00447C;
+
+  --border-radius: 20px;
+  --border-radius-small: 10px;
+  --border: 1px solid #2a2f37;
+
+  --font-family-base: 'Inter', sans-serif;
+
+  --button-height: 33px;
+
+  --transition-duration: 0.2s;
+}
