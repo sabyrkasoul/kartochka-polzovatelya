@@ -235,3 +235,11 @@ svg * {
 
   --transition-duration: 0.2s;
 }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--font-family-base);
+  background-color: var(--color-dark);
+}
